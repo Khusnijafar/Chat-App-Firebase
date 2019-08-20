@@ -8,7 +8,7 @@ import Messages from './Messages/Messages'
 import MetaPanel from './MetaPanel/MetaPanel'
 import SidePanel from './SidePanel/SidePanel'
 
-const App = (currentUser) => (
+const App = ({currentUser}) => (
     <Grid columns='equal' className='app' style={{ background: '#eee'}}>
         <ColorPanel />
         <SidePanel currentUser={currentUser}/>
