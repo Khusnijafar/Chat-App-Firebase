@@ -74,8 +74,6 @@ export default class Register extends Component {
                 console.error(err);
                 this.setState({ errors: this.state.errors.concat(err), loading: false })
             })
-
-            
         })
         .catch(err => {
             console.error(err)
