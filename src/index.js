@@ -8,7 +8,7 @@ import 'semantic-ui-css/semantic.min.css'
 import Login from './components/Auth/Login';
 import Register from './components/Auth/Register';
 import firebase from './firebase'
-import Peta from './data/Peta'
+import Peta from './Peta'
 import { createStore } from 'redux'
 import { Provider, connect } from 'react-redux'
 import { composeWithDevTools } from 'redux-devtools-extension'
