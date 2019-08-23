@@ -10,13 +10,13 @@ ChatApp is realtime chatting that you can chat in group and personal
 ## Demo
 
 ### Register Page
-<img src="src/images/registerPage.png" width="100px;" alt="X"/>
+<img src="src/images/registerPage.png" width="400px;" alt="X"/>
 
 ### Login Page
-<img src="src/images/loginApp.png" width="100px;" alt="X"/>
+<img src="src/images/loginPage.png" width="400px;" alt="X"/>
 
 ### Home Page
-<img src="src/images/homeApp.png" width="100px;" alt="X"/>
+<img src="src/images/homeApp.png" width="1000px;" alt="X"/>
 
 ## Installation
 ### Clone
