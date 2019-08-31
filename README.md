@@ -3,22 +3,28 @@
 </div>
 
 
-## Description
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#Installation)
+- [Screenshoot](#screenshoot)
+- [Contributors](#contributors)
+
+## Introduction
 
 ChatApp is realtime chatting that you can chat in group and personal
 
-## Demo
+## Features
 
-### Register Page
-<img src="src/images/registerPage.png" width="400px;" alt="X"/>
-
-### Login Page
-<img src="src/images/loginPage.png" width="400px;" alt="X"/>
-
-### Home Page
-<img src="src/images/homeApp.png" width="1000px;" alt="X"/>
+- Login & Register
+- Group Chat
+- Private Chat
+- Current Location
 
 ## Installation
+
 ### Clone
 ```
 $ git clonehttps://github.com/Khusnijafar/Chat-App-Firebase.git
@@ -35,6 +41,17 @@ Make sure you have login on https://console.firebase.google.com, and create a pr
 ```
 $ npm start
 ```
+
+## Screenshoot
+
+### Register Page
+<img src="src/images/registerPage.png" width="400px;" alt="X"/>
+
+### Login Page
+<img src="src/images/loginPage.png" width="400px;" alt="X"/>
+
+### Home Page
+<img src="src/images/homeApp.png" width="1000px;" alt="X"/>
 
 
 ### License
